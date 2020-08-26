@@ -1,2 +1,2 @@
-# skylark-graphics-geometries
-The skylarkjs geometry class library.
+# skylark-graphics-gradients
+The skylarkjs gradient class library.
