@@ -228,7 +228,7 @@ define('skylark-graphics-gradients/GradientStop',[
 					target.color.notEqual(this.color);
         },
 		
-		"construct"	 :	function(offset,color){
+		"_construct"	 :	function(offset,color){
 			if (langx.isString(offset)) {
 				var parsed = Number.parsePercent(offset);
 				if (parsed != null) {
