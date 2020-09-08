@@ -1,6 +1,6 @@
 define([
 	"skylark-langx/langx",
-	"skylark-graphics-color",
+	"skylark-graphics-colors/Color",
 	"./gradients",
 	"./GradientPoint",
 	"./GradientStop"

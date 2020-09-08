@@ -1,6 +1,6 @@
 define([
 	"skylark-langx/langx",
-	"skylark-graphics-color",
+	"skylark-graphics-colors/Color",
 	"./gradients",
 ],function(langx,Color,gradients) {
 	var GradientStop = langx.klass({
